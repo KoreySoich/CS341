@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerWebService", "VolunteerWebService\VolunteerWebService.csproj", "{2703E4C6-8750-4E6D-8B4A-1BE0B3F6C42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerWebService.Tests", "VolunteerWebService.Tests\VolunteerWebService.Tests.csproj", "{983DF96C-8204-4F9D-99C5-BC645BFA8FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2703E4C6-8750-4E6D-8B4A-1BE0B3F6C42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2703E4C6-8750-4E6D-8B4A-1BE0B3F6C42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2703E4C6-8750-4E6D-8B4A-1BE0B3F6C42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2703E4C6-8750-4E6D-8B4A-1BE0B3F6C42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983DF96C-8204-4F9D-99C5-BC645BFA8FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983DF96C-8204-4F9D-99C5-BC645BFA8FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983DF96C-8204-4F9D-99C5-BC645BFA8FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983DF96C-8204-4F9D-99C5-BC645BFA8FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
